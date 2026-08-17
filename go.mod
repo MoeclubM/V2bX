@@ -364,3 +364,5 @@ require (
 )
 
 replace github.com/sagernet/sing-box => github.com/MoeclubM/sing-box_mod v1.14.0-v2bx.4
+
+replace github.com/sagernet/gvisor => github.com/sagernet/gvisor v0.0.0-20260727.0-sing-box-mod.1
