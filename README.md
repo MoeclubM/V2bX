@@ -1,8 +1,7 @@
 # V2bX
 
-> **本项目已停止维护。**  
-> 这是 [wyx2685/V2bX](https://github.com/wyx2685/V2bX) 的 fork，更新了 Sing-box 内核并适配新版 Xboard Machine API。  
-> 如仍需节点服务端，请使用 [NodeRS](https://github.com/MoeclubM/NodeRS)。
+> **本项目已停止维护。如仍需持续维护的节点服务端，请使用 [NodeRS](https://github.com/MoeclubM/NodeRS)。**  
+> 这是 [wyx2685/V2bX](https://github.com/wyx2685/V2bX) 的 fork，更新了 Sing-box 内核，修复一些问题并适配新版 Xboard Machine API。  
 
 [![](https://img.shields.io/badge/TgChat-UnOfficialV2Board%E4%BA%A4%E6%B5%81%E7%BE%A4-green)](https://t.me/unofficialV2board)
 [![](https://img.shields.io/badge/TgChat-YuzukiProjects%E4%BA%A4%E6%B5%81%E7%BE%A4-blue)](https://t.me/YuzukiProjects)
